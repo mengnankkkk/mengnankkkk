@@ -6,15 +6,15 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mengnankkkk&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
-## 我是谁**:smirk:**
+## 我是谁 ** :smirk:**
 
 我是mengnankkkk，一名热衷于编程和技术的开发者，喜欢探索新的技术和工具，致力于不断提升自己的技能。
 
-## 我的简介:stuck_out_tongue_closed_eyes:
+## 我的简介 :stuck_out_tongue_closed_eyes:
 
 我在GitHub和B站上分享我的项目和学习经验，希望通过这些平台与更多的开发者交流和学习。同时，我也在不断地扩展自己的知识面，涉及Java、Python、Web开发等多个领域。
 
-## 我的爱好:cold_sweat:
+## 我的爱好 :cold_sweat:
 
 - 编程：喜欢用Java、Python和其他编程语言开发各种有趣的项目。
 - 游戏：喜欢玩Minecraft和其他策略类游戏。
@@ -23,7 +23,7 @@
 - Europa Universalis IV Arsenal 山东泰山 Minecraft
 - 
 
-##  技能 &&活跃度:sweat_smile:
+##  技能 &&活跃度 :sweat_smile:
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=mengnankkkk)](https://git.io/streak-stats)
 

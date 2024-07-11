@@ -35,6 +35,7 @@
 - 邮箱：mengnankkzhou@gmail.com 
 -  GitHub：[mengnankkkk](https://github.com/mengnankkkk) 
 - -B站：[mengnankk](https://space.bilibili.com/440831872)
+- home主页: https://home.mengnankk.asia
 
 ![B站统计](https://stats.justsong.cn/api/bilibili/?id=440831872&theme=dark) 
 

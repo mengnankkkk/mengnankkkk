@@ -6,7 +6,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mengnankkkk&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
-## 我是谁 ** :smirk:**
+## 我是谁   :smirk:
 
 我是mengnankkkk，一名热衷于编程和技术的开发者，喜欢探索新的技术和工具，致力于不断提升自己的技能。
 
@@ -43,7 +43,7 @@
 
 ![B站统计](https://stats.justsong.cn/api/bilibili/?id=440831872&theme=dark) ![](https://stats.justsong.cn/api/github?username=mengnankkkk)
 
-## 访问人数:heart_eyes:
+## 访问人数 :heart_eyes:
 
 ![Visitor Count](https://profile-counter.glitch.me/{mengnankkkk}/count.svg)
 

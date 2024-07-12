@@ -51,4 +51,3 @@
 
 ![](https://imgbed.mengnankk.asia/202407091737883.jpg)
 
-!(https://raw.githubusercontent.com/mengnankkkk/img/main/202407071231028.jpg)

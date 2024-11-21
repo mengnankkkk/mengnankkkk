@@ -9,7 +9,7 @@
 - 邮箱①：mengnankkzhou@gmail.com 
 - 邮箱②：zyk13355432371@163.com
 -  GitHub：[mengnankkkk](https://github.com/mengnankkkk) 
-- -B站：[mengnankk](https://space.bilibili.com/440831872)
+- B站：[mengnankk](https://space.bilibili.com/440831872)
 - home主页: https://home.mengnankk.asia
 
 ![B站统计](https://stats.justsong.cn/api/bilibili/?id=440831872&theme=dark) 

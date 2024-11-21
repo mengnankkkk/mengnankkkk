@@ -23,8 +23,8 @@ jobs:
       - name: Generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v2
         with:
-          github_user_name: ${{ github.repository_owner }}  # 确保此变量正确传递
-          outputs: dist/github-contribution-grid-snake.svg  # 简化输出路径，避免问题
+          github_user_name: "mengnankkkk"  # 使用提供的 GitHub 用户名
+          outputs: dist/github-contribution-grid-snake.svg
 
       # 将生成的文件推送到指定的 output 分支
       - name: Push github-contribution-grid-snake.svg to the output branch
@@ -34,4 +34,5 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
 

@@ -20,7 +20,7 @@
 
 <div align="center">
 
- <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/buptsdz/buptsdz/output/github-contribution-grid-snake.svg">
+ <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mengnankkkk/mengnankkkk/refs/heads/output/github-contribution-grid-snake.svg">
 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mengnankkkk&show_icons=true&include_all_commits=true&hide_border=true" alt="Sue's github stats" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mengnankkkk&layout=compact&theme=buefy&hide_border=true" />
 

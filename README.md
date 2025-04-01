@@ -7,7 +7,7 @@
 ## 联系信息 :kissing_closed_eyes:
 
 - 邮箱①：mengnankkzhou@gmail.com 
-- 邮箱②：zyk13355432371@163.com
+- 邮箱②：zhouyongkang0312@outlook.com
 -  GitHub：[mengnankkkk](https://github.com/mengnankkkk) 
 - B站：[mengnankk](https://space.bilibili.com/440831872)
 - home主页: https://home.mengnankk.asia

@@ -38,7 +38,7 @@
 
  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/buptsdz/buptsdz/output/github-contribution-grid-snake.svg">
 
- **GitHub 奖杯🏆**
+ **GitHub 奖杯盒子🏆**
 
   <div><img src="https://github-profile-trophy.vercel.app/?username=mengnankkkk&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br/></div>
 

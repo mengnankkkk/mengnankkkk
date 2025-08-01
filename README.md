@@ -12,11 +12,9 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=mengnankkkk)
 ![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=mengnankkkk)
-
 ![info](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mengnankkkk&theme=github_dark)
 
 **Welcome to visit my blogs, We can talk about information technology there!**
-
 | ITEM         | WEBSITE                               | EMAIL ID | ADDRESS                      |
 | ------------ | ------------------------------------- | -------- | ---------------------------- |
 | **GitHub**   | https://github.com/mengnankkkk        | **01**   | 202303013032@stu.qlu.edu.cn  |
@@ -26,20 +24,9 @@
 | **blog**     | https://blog.tokenlen.top/            |          |                              |
 | **homepage** | http://tokenlen.top                   |          |                              |
 
-**bilibili**
-
 ![B站统计](https://stats.justsong.cn/api/bilibili/?id=440831872&theme=dark)
-![](https://stats.justsong.cn/api/leetcode?username=mengnankk&cn=true)
-
-**Number of Total Visits**
-
-![Visitor Count](https://profile-counter.glitch.me/{mengnankkkk}/count.svg)
-
-
-
+![](https://stats.justsong.cn/api/leetcode?username=mengnankkkk&cn=true)
 <div align="center">
-
-
  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/buptsdz/buptsdz/output/github-contribution-grid-snake.svg">
 
  **GitHub 奖杯盒子🏆**

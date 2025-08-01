@@ -74,7 +74,7 @@ jobs:
           plugin_lines_repositories_limit: 4
           plugin_lines_sections: base
           plugin_notable: yes
-          plugin_notable_from: organization
+          plugin_notable_from: Duke-s-Mansion-of-Qi
           plugin_notable_types: commit
           plugin_support: yes
           plugin_traffic: yes

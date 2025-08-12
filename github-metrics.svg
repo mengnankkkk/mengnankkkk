@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2120" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1841" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution .gauge-arc,.contribution .gauge-base{stroke:currentColor;stroke-width:4}.contribution .gauge text{fill:currentColor;font-size:13px}.contribution .gauge{margin:0 6px;color:inherit;transform:scale(1.4) translateY(1px)}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text,.gauge text.secondary{fill:currentColor;font-family:monospace;text-anchor:middle}.gauge text{font-size:40px;font-weight:600}.gauge text.secondary{font-size:25px}.gauge .title{font-size:18px;color:#777}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}.leetcode .easy.gauge .gauge-arc{color:#2cbb5d}.leetcode .medium.gauge .gauge-arc{color:#ffc01e}.leetcode .hard.gauge .gauge-arc{color:#ef4743}.leetcode .all.gauge .gauge-arc{color:#ffa116}.leetcode{align-items:flex-start}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.comment{color:#690}.token.keyword,.token.namespace{color:#b44418}.token.trimmed{font-style:italic;color:#77777760}.space{margin-left:7px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution .gauge-arc,.contribution .gauge-base{stroke:currentColor;stroke-width:4}.contribution .gauge text{fill:currentColor;font-size:13px}.contribution .gauge{margin:0 6px;color:inherit;transform:scale(1.4) translateY(1px)}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text,.gauge text.secondary{fill:currentColor;font-family:monospace;text-anchor:middle}.gauge text{font-size:40px;font-weight:600}.gauge text.secondary{font-size:25px}.gauge .title{font-size:18px;color:#777}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}.leetcode .easy.gauge .gauge-arc{color:#2cbb5d}.leetcode .medium.gauge .gauge-arc{color:#ffc01e}.leetcode .hard.gauge .gauge-arc{color:#ef4743}.leetcode .all.gauge .gauge-arc{color:#ffa116}.leetcode{align-items:flex-start}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.comment{color:#690}.token.namespace{color:#b44418}.token.trimmed{font-style:italic;color:#77777760}.space{margin-left:7px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    2.19m added, 1.81m removed
+                                    2.22m added, 1.83m removed
                                 </div>
                             </section>
                             <section>
@@ -504,6 +504,52 @@
                                     <div class="comment">
                                         <i>
                                             <i>
+                                                <i>
+                                                    <i>
+                                                        使用curl命令去检查一下
+                                                        <code>curl -G "http://10.254.246.53:8848/nacos/v1/cs/configs" \ --data-urlencode "dataId=ai-member-mcp.yaml" \ --data-urlencode "group=DEFAULT_GROUP" \ --data-urlencode "namespace=config"</code>
+                                                        出现空的话，就说明namespace / group / dataId的后缀或者拼写出错了，没对应上
+                                                    </i>
+                                                    你好，我试过了，配置文件是存在的，当我去掉引用后
+                                                    <code class="language-multiline" xml:space="preserve">com.alibaba.cloud.ai
+        spring-ai-alibaba-starter-nacos-mcp-server
+<span class="token trimmed">(4 more lines were trimmed)</span></code>
+                                                    项目启动后，Nacos config就能读取到
+                                                </i>
+                                                你好您用的是nacos2的配置风格，然后
+com.alibaba.cloud.ai spring-ai-alibaba-starter-nacos-mcp-server 用的是nacos3,然后Loader 解析时，用了它默认的 namespace，所以可能会出现配置文件不存在的问题。 切换成nacos3的配置样式试试？
+                                            </i>
+                                            你好，你所说的nacos3的配置样式是怎么样的
+                                        </i>
+                                        类似
+spring:
+  cloud:
+    nacos:
+      config:
+        server-addr: 10.254.246.53:8848
+        namespace: name
+        group: DEFAULT_GROUP
+        file-extension: yaml
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#2110 [Question] 引入nacos-mcp-server后无法读取到nacos config</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by apollohao in <span class="repo">alibaba/spring-ai-alibaba</span></div>
+                                    <div class="comment">
+                                        <i>
+                                            <i>
                                                 使用curl命令去检查一下
                                                 <code>curl -G "http://10.254.246.53:8848/nacos/v1/cs/configs" \ --data-urlencode "dataId=ai-member-mcp.yaml" \ --data-urlencode "group=DEFAULT_GROUP" \ --data-urlencode "namespace=config"</code>
                                                 出现空的话，就说明namespace / group / dataId的后缀或者拼写出错了，没对应上
@@ -745,504 +791,6 @@ refactor(graph): 重构 StreamingChatGenerator 中的结果处理逻辑</div>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 22 commits in
-                                        <span class="repo">mengnankkkk/spring-ai-alibaba</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#8a925ec</div>
-                                        <div class="message">feat(core): support searching multiple VectorStore (#1808)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d4f01e0</div>
-                                        <div class="message">feat(mcp): rename mcp register modules to mcp registry  (#2109)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#80d9c05</div>
-                                        <div class="message">feat(mcp): modify mcp module structs (#2106)
-
-* feat(mcp): add Nacos MCP router auto-configuration and metadata
-
-* feat(mcp): add MCP router starter
-
-* feat(mcp): refactor MCP gateway module structure and update dependencies
-
-* feat(mcp): rename MCP register module to MCP registry and update references
-
-* feat(mcp): update MCP gateway configuration properties and restructure imports
-
-* feat(mcp): update MCP router
-
-* feat(mcp): update MCP router
-
-* feat(mcp): update MCP router
-
-* feat(mcp): remove unused MCP client and server dependencies from pom.xml
-
-* feat(mcp): remove unused MCP client and server dependencies from pom.xml</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7898458</div>
-                                        <div class="message">feat(graph): optimizing intermediate variable names in dsl-to-saa code conversion (#2090)
-
-* feat: change output varName of all nodes
-
-* feat: test CodeNodeSection
-
-* feat: test LLMNodeSection
-
-* feat: test TemplateTransformNodeSection
-
-* feat: test BranchNodeSection and add EndNodeSection
-
-* feat: test and fix IterationNodeSection
-
-* feat: test and fix HttpNodeSection
-
-* feat: test and fix DocumentExtractorNodeSection
-
-* feat: test and fix QuestionClassifierNodeSection, and remove conditional edge render code
-
-* feat: test and fix VariableAggregatorNodeSection
-
-* fix: unit test
-
-* feat: test and fix ParameterParsingNodeSection (parameter-extractor, Issue #2053
-)
-
-* feat: test and fix KnowledgeRetrievalNodeSection
-
-* feat: fix ToolNodeSection
-
-* feat: test and fix ListOperatorNodeSection
-
-* fix: remove unused code
-
-* fix: bugs
-
-* feat: fix AnswerNodeSection
-
-* feat: fix AssignerNodeSection
-
-* feat: fix unit test</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3849d13</div>
-                                        <div class="message">fix(graph): 重构 StreamingChatGenerator 中的结果处理逻辑 (#2108)
-
-refactor(graph): 重构 StreamingChatGenerator 中的结果处理逻辑</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ac8e4b9</div>
-                                        <div class="message">feat(mcp): merge mcp discovery module to mcp register and update depe… (#2105)
-
-feat(mcp): merge mcp discovery module to mcp register and update dependencies</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#82908cc</div>
-                                        <div class="message">feat(nl2sql): remove unused mocks and test method from AgentStart… (#2101)
-
-refactor(nl2sql): remove unused mocks and test method from AgentStartupInitializationServiceTest</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6e162a5</div>
-                                        <div class="message">feat(mcp): remove nacos2 mcp and mcp recovery (#1998)
-
-feat: remove nacos2 mcp and mcp recovery
-
-Signed-off-by: shown.Ji &lt;yuluo08290126@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fcf32d1</div>
-                                        <div class="message">feat(mcp): mcp router handle (#2098)
-
-* feat(mcp): remove unnecessary @Component annotation from McpTraceExchangeFilterFunction
-
-* feat(mcp): enhance MCP Router with service discovery, management, and tool invocation features
-
-* feat(mcp): enhance vector store search with keyword matching and improved scoring
-
-* feat(mcp): enhance MCP Router with improved server discovery and tool initialization
-
-* feat(mcp): remove unused service discovery methods and improve exception handling in MCP Router
-
-* feat(mcp): implement MCP Proxy Service for handling tool calls and connections
-
-* feat(mcp): rename mcp-stream protocol to mcp-streamable for clarity
-
-* feat(mcp): add Apache License header to McpRouterProperties.java</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b30ebb6</div>
-                                        <div class="message">feat(nl2sql): implement agent startup initialization service with asy… (#2096)
-
-* feat(nl2sql): implement agent startup initialization service with asynchronous processing
-
-* refactor(nl2sql): clean up comments in AgentStartupInitializationService for clarity
-
-* refactor(nl2sql): remove unused mocks and test method from AgentStartupInitializationServiceTest
-
-* format</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#03babd5</div>
-                                        <div class="message">feat(deepresearch): optimize (#2094)
-
-* feat(deepreasearch): optimize
-
-* feat(deepreasearch): rag
-
-* feat(deepreasearch): foramt
-
-* feat(deepreasearch): fix
-
-* feat(deepreasearch): fix</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8c4338f</div>
-                                        <div class="message">fix(jmanus): optimize the incompatibility issues of postgres database (#2082)
-
-* 优化pg数据库不兼容问题，也为更多数据库兼容做铺垫
-
-* 去除无效引用
-
-* 添加协议</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b5a3cbd</div>
-                                        <div class="message">feat(jmanus): feat jmanus support memory (#2089)
-
-* 记忆功能支持
-
-* 优化
-
-* 添加内存支持
-
-* 添加页面选择记忆能力，待优化前后端交互数据
-
-* 去除无效依赖
-
-* 排除冲突依赖
-
-* 优化页面展示
-
-* 优化记忆能力
-
-* 添加h2数据库内存支持
-
-* 国际化支持
-
-* 添加注释
-
-* 优化页面图标
-
-* 优化页面样式
-
-* 去除中文
-
-* 格式化代码
-
-* 文件尾添加空行
-
-* 去除无效依赖
-
-* 优化页面展示
-
-* 调整页面样式，优化功能
-
-* 格式化和添加协议
-
-* 去除无效依赖
-
-* 优化记忆内容
-
-* 优化前端写法
-
-* 优化参数写法
-
-* 前端编译后提交
-
-* 记忆id构建从前端改为后端，优化重复任务会多次存储记忆问题
-
-* 重新打包前端页面
-
-* 优化home页对话失败问题
-
-* 重新编译前端页面
-
-* 优化页面显示
-
-* 优化页面样式
-
-* 优化样式，去除无用代码
-
-* merge and build
-
-* 格式化代码</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d02761e</div>
-                                        <div class="message">fix(nl2sql): update image references in README.md (#2079)
-
-fix(readme): update image references in README.md</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#692e9de</div>
-                                        <div class="message">feat(jmanus): add a demo for using FormInputTool (#2085)
-
-* feat(jmanus):Add a demo for using FormInputTool
-
-* feat(jmanus):Add a demo for using FormInputTool
-
-* feat(jmanus):Add a demo for using FormInputTool
-
-* feat(jmanus):Add a demo for using FormInputTool
-
-* 修正YAML文件格式问题和中文字符问题
-
-* fix: resolve remaining merge conflicts in static assets</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4219934</div>
-                                        <div class="message">fix(jmanus): merge and fix cn pr (#2081)
-
-* fix(entity): update PlanExecutionRecord column definition to longtext for larger data storage
-
-* bug(jmanus): fix polardb concurrent trasaction bug
-
-* bug(jmanus): fix polardb concurrent trasaction bug
-
-* feat(jmanus): add namespace host column
-
-* feat(jmanus): 扩展序列化方式，支持agent是否初始化，修复polardb事务并发问题
-
-* bug(jmanus): fix compile error
-
-* bug(jmanus): fix compile error
-
-* feat(jmanus): enhance index page (#1842)
-
-* fix(entity): update PlanExecutionRecord column definition to longtext for larger data storage
-
-* feat(i18n): update direct button text and add AI novel example
-
-* build front end
-
----------
-
-Co-authored-by: rainerWJY &lt;answeropensource@alibabacloud.com&gt;
-
-* feat(nl2sql): update nl2sql common db connector (#1824)
-
-* feat(nl2sql): update nl2sql common db connector
-
-Signed-off-by: shown.Ji &lt;yuluo08290126@gmail.com&gt;
-
-* style(nl2sql): update code styl
-
-Signed-off-by: shown.Ji &lt;yuluo08290126@gmail.com&gt;
-
-* fix
-
-Signed-off-by: shown.Ji &lt;yuluo08290126@gmail.com&gt;
-
-* feat(nl2sql): fix some issue
-
-Signed-off-by: shown.Ji &lt;yuluo08290126@gmail.com&gt;
-
-* style(nl2sql): update code style
-
-Signed-off-by: shown.Ji &lt;yuluo08290126@gmail.com&gt;
-
-* fix(ut): fix ut
-
-Signed-off-by: shown.Ji &lt;yuluo08290126@gmail.com&gt;
-
----------
-
-Signed-off-by: shown.Ji &lt;yuluo08290126@gmail.com&gt;
-
-* feat(graph): StreamingOutput增强，增加 ChatResponse 属性以获取完整响应 (#1836)
-
-* (streamfeating): StreamingOutput增强，增加 ChatResponse 属性以获取完整响应
-
-- 在 StreamingOutput 类中添加 chatResponse 属性，用于存储 ChatResponse 对象
-
-* feat(streaming): 增加对全量 ChatResponse 的处理支持
-
-* feat(streaming): 增加对全量 ChatResponse 的处理支持
-
-* fix(deepresearch): enable researchTeam error handling mechanism (#1843)
-
-* fix(deepresearch): enable researchTeam error handling mechanism
-
-* format
-
-* remove unused imports
-
-* bug(jmanus): fix end file character
-
-* bug(jmanus): fix polardb concurrent trasaction bug
-
-* bug(jmanus): fix polardb concurrent trasaction bug
-
-* feat(jmanus): add namespace host column
-
-* feat(jmanus): 扩展序列化方式，支持agent是否初始化，修复polardb事务并发问题
-
-* bug(jmanus): fix compile error
-
-* bug(jmanus): fix compile error
-
-* bug(jmanus): fix end file character
-
-* fix(jmanus): merge main branch
-
-* feat(jmanus): add namespace host column
-
-* bug(jmanus): fix compile error
-
-* bug(jmanus): fix end file character
-
-* feat(jmanus): add namespace host column
-
-* bug(jmanus): fix compile error
-
-* fix(jmanus): merge origin main
-
-* fix(jmanus): merge main branch
-
-* feat(jmanus): merge ui/support ignore load buildin tools
-
-* feat(jmanus): add namespace host column
-
-* bug(jmanus): fix compile error
-
-* bug(jmanus): fix end file character
-
-* feat(jmanus): add namespace host column
-
-* feat(jmanus): 扩展序列化方式，支持agent是否初始化，修复polardb事务并发问题
-
-* bug(jmanus): fix compile error
-
-* bug(jmanus): fix end file character
-
-* feat(jmanus): add namespace host column
-
-* bug(jmanus): fix compile error
-
-* feat(jmanus): merge upstream main
-
-* feat(nl2sql): update nl2sql common db connector (#1824)
-
-* feat(nl2sql): update nl2sql common db connector
-
-Signed-off-by: shown.Ji &lt;yuluo08290126@gmail.com&gt;
-
-* style(nl2sql): update code styl
-
-Signed-off-by: shown.Ji &lt;yuluo08290126@gmail.com&gt;
-
-* fix
-
-Signed-off-by: shown.Ji &lt;yuluo08290126@gmail.com&gt;
-
-* feat(nl2sql): fix some issue
-
-Signed-off-by: shown.Ji &lt;yuluo08290126@gmail.com&gt;
-
-* style(nl2sql): update code style
-
-Signed-off-by: shown.Ji &lt;yuluo08290126@gmail.com&gt;
-
-* fix(ut): fix ut
-
-Signed-off-by: shown.Ji &lt;yuluo08290126@gmail.com&gt;
-
----------
-
-Signed-off-by: shown.Ji &lt;yuluo08290126@gmail.com&gt;
-
-* fix(jmanus): merge main branch
-
-* feat(jmanus): merge ui/support ignore load buildin tools
-
-* feat(jmanus): 支持不加载内置工具
-
-* feat(jmanus): 支持不加载内置工具
-
-* feat(jmanus): 支持不加载内置工具
-
-* feat(jmanus):Extended acquisition agent implementation
-
-* merge upstream main
-
-* refactor(ui): clean up CSS and remove unused i18n entries
-
-* remove dir
-
-* build
-
-* java style
-
----------
-
-Signed-off-by: shown.Ji &lt;yuluo08290126@gmail.com&gt;
-Co-authored-by: rainerWJY &lt;answeropensource@alibabacloud.com&gt;
-Co-authored-by: zizhu8 &lt;ziyunyangyong@126.com&gt;
-Co-authored-by: huoci.yy@cainiao.com &lt;huoci.yy@cainiao.com&gt;
-Co-authored-by: shown &lt;yuluo08290126@gmail.com&gt;
-Co-authored-by: xiaohai-78 &lt;xiaoyuntao789@163.com&gt;
-Co-authored-by: sixiyida &lt;102841234+sixiyida@users.noreply.github.com&gt;
-Co-authored-by: CaptainGreenskin &lt;liulihan5211@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#efc106b</div>
-                                        <div class="message">feat(graph): add support for interruption before edge evaulation (#2083)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#566ac39</div>
-                                        <div class="message">feat(nl2sql): enable host option for development script (#2078)
-
-feat(vite): enable host option for development script</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b65a908</div>
-                                        <div class="message">fix(jmanus): avoid accidental overwrite of dynamic model configuration (#2076)
-
-fix(jmanus): dynamic model configuration cannot be accidentally overwritten</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6d410eb</div>
-                                        <div class="message">feat(nl2sql): fix some bugs and supplement the documentation (#2075)
-
-* feat(nl2sql): add datasource form validation and connection URL generation
-
-* feat(nl2sql): enhance datasource handling by adding username and password fields, and refactor connection URL generation
-
-* docs(nl2sql): update README with system experience and agent configuration steps
-
-* docs(nl2sql): update README images for agent configuration and datasource setup
-
-* format
-
-* format
-
-* format</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -1334,7 +882,7 @@ fix(jmanus): dynamic model configuration cannot be accidentally overwritten</div
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Aug 2025, 00:29:35 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Aug 2025, 01:21:05 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

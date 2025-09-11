@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=hellow+welcome+to+mengnankk+home)](https://git.io/typing-svg)
-> 🙋‍♂️ about Me
+> - 🙋‍♂️ About Me
 >
-> 我是一名Java开源贡献者，爱好AI和搞一些小玩意
+>   I'm a Java open source contributor with a passion for AI and gadgets.
 >
-> - 🔭 我目前正在学习Java&&python&Go
-> - 👯 我希望能够合作。
-> - 😄 爱好：历史 AI 技术 足球
+>   - 🔭 I'm currently learning Java, Python, and Go.
+>   - 👯 I'm open to collaboration.
+>   - 😄 Hobbies: History, AI, Technology, Football
 
 ---
 
@@ -18,9 +18,6 @@
 | **Fastjson2**         | Contributor |
 | Dubbo                 | Contributor |
 | RocketMQ              | PR?         |
-
----
-
 📬 Connect with Me
 
 <p align="center">

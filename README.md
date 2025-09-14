@@ -3,7 +3,7 @@
 >
 >   I'm a Java open source contributor with a passion for AI and gadgets.
 >
->   - 🔭 I'm currently learning Java, Python, and Go.
+>   - 🔭 I'm currently learning Java and Go.
 >   - 👯 I'm open to collaboration.
 >   - 😄 Hobbies: History, AI, Technology, Football
 
@@ -16,8 +16,10 @@
 | **Spring AI Alibaba** | Contributor |
 | **Agentic-ADK**       | Contributor |
 | **Fastjson2**         | Contributor |
-| Dubbo                 | Contributor |
+| Dubbo                 | PR?         |
 | RocketMQ              | PR?         |
+
+
 📬 Connect with Me
 
 <p align="center">

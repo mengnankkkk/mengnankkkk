@@ -16,8 +16,7 @@
 | **Spring AI Alibaba** | Contributor |
 | **Agentic-ADK**       | Contributor |
 | **Fastjson2**         | Contributor |
-| Dubbo                 | PR?         |
-| RocketMQ              | PR?         |
+| **Hertzbeat **        | Contributor |
 
 
 📬 Connect with Me

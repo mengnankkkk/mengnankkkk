@@ -16,7 +16,7 @@
 | **Spring AI Alibaba** | Contributor |
 | **Agentic-ADK**       | Contributor |
 | **Fastjson2**         | Contributor |
-| **Hertzbeat **        | Contributor |
+| **Hertzbeat**         | Contributor |
 
 
 📬 Connect with Me

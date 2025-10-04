@@ -11,15 +11,15 @@
 
 🌱 Open Source Contributions
 
-| Name                  |    Role     |
-| --------------------- | :---------: |
-| **Spring AI Alibaba** | Contributor |
-| **Agentic-ADK**       | Contributor |
-| **Fastjson2**         | Contributor |
-| **Hertzbeat**         | Contributor |
-| **bined**             |  Commiter   |
-| **kestra**            | Contributor |
-| **fory**              | Contributor |
+| Name                                                         |    Role     |
+| ------------------------------------------------------------ | :---------: |
+| **[Spring AI Alibaba](https://github.com/alibaba/spring-ai-alibaba)** | Contributor |
+| [**Agentic-ADK**](https://github.com/AIDC-AI/Agentic-ADK)    | Contributor |
+| [**Fastjson2**](https://github.com/alibaba/fastjson2)        | Contributor |
+| [**Hertzbeat**](https://github.com/apache/hertzbeat)         | Contributor |
+| [**bined**](https://github.com/exbin/bined)                  |  Commiter   |
+| [**kestra**](https://github.com/kestra-io/kestra)            | Contributor |
+| [**fory**](https://github.com/apache/fory)                   | Contributor |
 
 
 📬 Connect with Me
@@ -27,8 +27,6 @@
 Email: zhouyongkang0032@qq.com
 
 Telegram: https://t.me/mengnankkkk
-
-
 
 
 

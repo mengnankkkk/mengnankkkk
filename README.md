@@ -11,24 +11,24 @@
 
 🌱 Open Source Contributions
 
-| Name                  | Role        |
-| --------------------- | ----------- |
+| Name                  |    Role     |
+| --------------------- | :---------: |
 | **Spring AI Alibaba** | Contributor |
 | **Agentic-ADK**       | Contributor |
 | **Fastjson2**         | Contributor |
 | **Hertzbeat**         | Contributor |
+| **bined**             |  Commiter   |
+| **kestra**            | Contributor |
+| **fory**              | Contributor |
 
 
 📬 Connect with Me
 
-<p align="center">
-  <a href="https://github.com/mengnankkkk/mengnankkkk/" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="zhouyongkang0032@qq.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</p>
+Email: zhouyongkang0032@qq.com
+
+Telegram: https://t.me/mengnankkkk
+
+
 
 
 

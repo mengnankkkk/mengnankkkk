@@ -1,11 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=hellow+welcome+to+mengnankk+home)](https://git.io/typing-svg)
-> - 🙋‍♂️ About Me
->
->   I'm a Java open source contributor with a passion for AI and gadgets.
->
->   - 🔭 I'm currently learning Java and Go.
->   - 👯 I'm open to collaboration.
->   - 😄 Hobbies: History, AI, Technology, Football
+🙋‍♂️ About Me
+I'm a Java open source contributor with a passion for AI and gadgets.
+   - 🔭 I'm currently learning Java and Go.
+   - 👯 I'm open to collaboration.
+   - 😄 Hobbies: History, AI, Technology, Football
 
 ---
 
@@ -17,9 +15,10 @@
 | [**Agentic-ADK**](https://github.com/AIDC-AI/Agentic-ADK)    | Contributor |
 | [**Fastjson2**](https://github.com/alibaba/fastjson2)        | Contributor |
 | [**Hertzbeat**](https://github.com/apache/hertzbeat)         | Contributor |
-| [**bined**](https://github.com/exbin/bined)                  |  Commiter   |
+| [**bined**](https://github.com/exbin/bined)                  | Contributor |
 | [**kestra**](https://github.com/kestra-io/kestra)            | Contributor |
 | [**fory**](https://github.com/apache/fory)                   | Contributor |
+| [**langchain4**](https://github.com/langchain4j/langchain4j) | Contributor |
 
 
 📬 Connect with Me

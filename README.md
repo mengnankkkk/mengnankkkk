@@ -1,33 +1,25 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=hellow+welcome+to+mengnankk+home)](https://git.io/typing-svg)
-🙋‍♂️ About Me
-I'm a Java open source contributor with a passion for AI and gadgets.
-   - 🔭 I'm currently learning Java and Go.
-   - 👯 I'm open to collaboration.
-   - 😄 Hobbies: History, AI, Technology, Football
+🐐About Me
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Hello! I’m a software enthusiast diving into Java and Go, with a passion for history, AI, technology, and football. I’m always open to collaboration and love contributing to open source.
 
----
+🔭 Currently learning: Java and Go
 
-🌱 Open Source Contributions
+👯 Open to collaboration
 
-| Name                                                         |    Role     |
-| ------------------------------------------------------------ | :---------: |
-| **[Spring AI Alibaba](https://github.com/alibaba/spring-ai-alibaba)** | Contributor |
-| [**Agentic-ADK**](https://github.com/AIDC-AI/Agentic-ADK)    | Contributor |
-| [**Fastjson2**](https://github.com/alibaba/fastjson2)        | Contributor |
-| [**Hertzbeat**](https://github.com/apache/hertzbeat)         | Contributor |
-| [**bined**](https://github.com/exbin/bined)                  | Contributor |
-| [**kestra**](https://github.com/kestra-io/kestra)            | Contributor |
-| [**fory**](https://github.com/apache/fory)                   | Contributor |
-| [**langchain4**](https://github.com/langchain4j/langchain4j) | Contributor |
+😄 Hobbies: History, AI, Technology, Football
 
-
-📬 Connect with Me
-
+----------------------------------------------------------------------------------
+| Name              | Role        | Link                                         |
+| ----------------- | ----------- | -------------------------------------------- |
+| Spring AI Alibaba | Contributor | https://github.com/alibaba/spring-ai-alibaba |
+| Agentic-ADK       | Contributor | https://github.com/AIDC-AI/Agentic-ADK       |
+| Fastjson2         | Contributor | https://github.com/alibaba/fastjson2         |
+| Hertzbeat         | Contributor | https://github.com/apache/hertzbeat          |
+| bined             | Contributor | https://github.com/exbin/bined               |
+| kestra            | Contributor | https://github.com/kestra-io/kestra          |
+| fory              | Contributor | https://github.com/apache/fory               |
+| langchain4        | Contributor | https://github.com/langchain4j/langchain4j   |
+----------------------------------------------------------------------------------
+📬 Contact
 Email: zhouyongkang0032@qq.com
-
 Telegram: https://t.me/mengnankkkk
-
-
-
-
-

@@ -1,6 +1,15 @@
 🐐About Me
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Hello! I’m a software enthusiast diving into Java and Go, with a passion for history, AI, technology, and football. I’m always open to collaboration and love contributing to open source.
+I am currently an undergraduate student who graduated in 2027.
+
+Mainly contributed 
+[Spring AI Alibaba](https://github.com/alibaba/spring-ai-alibaba)
+[DataAgent](https://github.com/spring-ai-alibaba/DataAgent)
+[FastJson2](https://github.com/alibaba/fastjson2)
+[Fory](	https://github.com/apache/fory)
+
+
 
 🔭 Currently learning: Java and Go
 
@@ -8,18 +17,8 @@ Hello! I’m a software enthusiast diving into Java and Go, with a passion for h
 
 😄 Hobbies: History, AI, Technology, Football
 
-----------------------------------------------------------------------------------
-| Name              | Role        | Link                                         |
-| ----------------- | ----------- | -------------------------------------------- |
-| Spring AI Alibaba | Contributor | https://github.com/alibaba/spring-ai-alibaba |
-| Agentic-ADK       | Contributor | https://github.com/AIDC-AI/Agentic-ADK       |
-| Fastjson2         | Contributor | https://github.com/alibaba/fastjson2         |
-| Hertzbeat         | Contributor | https://github.com/apache/hertzbeat          |
-| bined             | Contributor | https://github.com/exbin/bined               |
-| kestra            | Contributor | https://github.com/kestra-io/kestra          |
-| fory              | Contributor | https://github.com/apache/fory               |
-| langchain4        | Contributor | https://github.com/langchain4j/langchain4j   |
-----------------------------------------------------------------------------------
+
 📬 Contact
-Email: zhouyongkang0032@qq.com
+Email: zhouyongkang0312@qq.com
 Telegram: https://t.me/mengnankkkk
+

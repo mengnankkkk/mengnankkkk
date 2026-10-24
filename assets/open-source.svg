@@ -1,0 +1,134 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="378" viewBox="0 0 840 378" role="img" aria-label="mengnankkkk open source contributions">
+  <title>mengnankkkk: 164 public PRs across 20 external repositories</title>
+  <desc>Repositories ranked by PR count. Each dot is one PR; +N counts additional PRs. Latest is the month the newest PR was opened.</desc>
+  <style>
+    text{font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono',monospace}
+    .panel{fill:#fff;stroke:#d8dee4;stroke-width:1.2}
+    .heading{fill:#24292f;font-size:16px;font-weight:700}
+    .meta{fill:#66707b;font-size:12px;font-weight:600}
+    .name{fill:#24292f;font-size:11px;font-weight:600}
+    .long{font-size:9.5px}
+    .muted{fill:#66707b;font-size:11px;font-weight:500}
+    .star{fill:#bf8700}
+    .merged{fill:#8250df}.open{fill:#1a7f37}.closed{fill:#cf222e}.draft{fill:#66707b}
+  </style>
+  <rect class="panel" x="1" y="1" width="838" height="376" rx="14"/>
+  <text class="heading" x="24" y="33">OPEN SOURCE CONTRIBUTIONS</text>
+  <text class="meta" x="816" y="33" text-anchor="end">20 repositories · 164 PRs</text>
+  <text class="meta" x="430" y="62" text-anchor="end">STARS</text>
+  <text class="meta" x="476" y="62">PRs</text>
+  <text class="meta" x="816" y="62" text-anchor="end">LATEST</text>
+  <g><title>alibaba/spring-ai-alibaba: 47 PRs; latest opened 2026-02-14</title>
+    <text class="name" x="24" y="91">alibaba/spring-ai-alibaba</text>
+    <text class="muted" x="430" y="91" text-anchor="end">11.1K <tspan class="star">★</tspan></text>
+    <circle class="closed" cx="466" cy="87" r="4"><title>#4306 · closed</title></circle>
+    <circle class="closed" cx="480" cy="87" r="4"><title>#4198 · closed</title></circle>
+    <circle class="closed" cx="494" cy="87" r="4"><title>#4155 · closed</title></circle>
+    <circle class="merged" cx="508" cy="87" r="4"><title>#4121 · merged</title></circle>
+    <circle class="merged" cx="522" cy="87" r="4"><title>#4111 · merged</title></circle>
+    <circle class="merged" cx="536" cy="87" r="4"><title>#4079 · merged</title></circle>
+    <circle class="merged" cx="550" cy="87" r="4"><title>#4067 · merged</title></circle>
+    <circle class="merged" cx="564" cy="87" r="4"><title>#4045 · merged</title></circle>
+    <circle class="merged" cx="578" cy="87" r="4"><title>#3974 · merged</title></circle>
+    <circle class="merged" cx="592" cy="87" r="4"><title>#3969 · merged</title></circle>
+    <circle class="closed" cx="606" cy="87" r="4"><title>#3957 · closed</title></circle>
+    <circle class="closed" cx="620" cy="87" r="4"><title>#3945 · closed</title></circle>
+    <text class="muted" x="640" y="91">+35</text>
+    <text class="muted" x="816" y="91" text-anchor="end">FEB 2026</text></g>
+  <g><title>MaloneTalk/DataAgent: 34 PRs; latest opened 2026-10-18</title>
+    <text class="name" x="24" y="117">MaloneTalk/DataAgent</text>
+    <text class="muted" x="430" y="117" text-anchor="end">73 <tspan class="star">★</tspan></text>
+    <circle class="merged" cx="466" cy="113" r="4"><title>#176 · merged</title></circle>
+    <circle class="merged" cx="480" cy="113" r="4"><title>#175 · merged</title></circle>
+    <circle class="merged" cx="494" cy="113" r="4"><title>#174 · merged</title></circle>
+    <circle class="merged" cx="508" cy="113" r="4"><title>#172 · merged</title></circle>
+    <circle class="merged" cx="522" cy="113" r="4"><title>#164 · merged</title></circle>
+    <circle class="merged" cx="536" cy="113" r="4"><title>#163 · merged</title></circle>
+    <circle class="merged" cx="550" cy="113" r="4"><title>#160 · merged</title></circle>
+    <circle class="merged" cx="564" cy="113" r="4"><title>#157 · merged</title></circle>
+    <circle class="merged" cx="578" cy="113" r="4"><title>#149 · merged</title></circle>
+    <circle class="merged" cx="592" cy="113" r="4"><title>#148 · merged</title></circle>
+    <circle class="merged" cx="606" cy="113" r="4"><title>#145 · merged</title></circle>
+    <circle class="closed" cx="620" cy="113" r="4"><title>#136 · closed</title></circle>
+    <text class="muted" x="640" y="117">+22</text>
+    <text class="muted" x="816" y="117" text-anchor="end">OCT 2026</text></g>
+  <g><title>spring-ai-alibaba/DataAgent: 31 PRs; latest opened 2026-05-26</title>
+    <text class="name" x="24" y="143">spring-ai-alibaba/DataAgent</text>
+    <text class="muted" x="430" y="143" text-anchor="end">2.8K <tspan class="star">★</tspan></text>
+    <circle class="closed" cx="466" cy="139" r="4"><title>#523 · closed</title></circle>
+    <circle class="merged" cx="480" cy="139" r="4"><title>#512 · merged</title></circle>
+    <circle class="merged" cx="494" cy="139" r="4"><title>#503 · merged</title></circle>
+    <circle class="merged" cx="508" cy="139" r="4"><title>#487 · merged</title></circle>
+    <circle class="merged" cx="522" cy="139" r="4"><title>#482 · merged</title></circle>
+    <circle class="merged" cx="536" cy="139" r="4"><title>#439 · merged</title></circle>
+    <circle class="merged" cx="550" cy="139" r="4"><title>#438 · merged</title></circle>
+    <circle class="merged" cx="564" cy="139" r="4"><title>#420 · merged</title></circle>
+    <circle class="merged" cx="578" cy="139" r="4"><title>#377 · merged</title></circle>
+    <circle class="merged" cx="592" cy="139" r="4"><title>#333 · merged</title></circle>
+    <circle class="merged" cx="606" cy="139" r="4"><title>#326 · merged</title></circle>
+    <circle class="merged" cx="620" cy="139" r="4"><title>#317 · merged</title></circle>
+    <text class="muted" x="640" y="143">+19</text>
+    <text class="muted" x="816" y="143" text-anchor="end">MAY 2026</text></g>
+  <g><title>alibaba/fastjson2: 19 PRs; latest opened 2026-03-05</title>
+    <text class="name" x="24" y="169">alibaba/fastjson2</text>
+    <text class="muted" x="430" y="169" text-anchor="end">4.4K <tspan class="star">★</tspan></text>
+    <circle class="closed" cx="466" cy="165" r="4"><title>#4010 · closed</title></circle>
+    <circle class="merged" cx="480" cy="165" r="4"><title>#4005 · merged</title></circle>
+    <circle class="merged" cx="494" cy="165" r="4"><title>#3987 · merged</title></circle>
+    <circle class="merged" cx="508" cy="165" r="4"><title>#3972 · merged</title></circle>
+    <circle class="closed" cx="522" cy="165" r="4"><title>#3953 · closed</title></circle>
+    <circle class="merged" cx="536" cy="165" r="4"><title>#3951 · merged</title></circle>
+    <circle class="merged" cx="550" cy="165" r="4"><title>#3935 · merged</title></circle>
+    <circle class="closed" cx="564" cy="165" r="4"><title>#3920 · closed</title></circle>
+    <circle class="merged" cx="578" cy="165" r="4"><title>#3919 · merged</title></circle>
+    <circle class="merged" cx="592" cy="165" r="4"><title>#3796 · merged</title></circle>
+    <circle class="merged" cx="606" cy="165" r="4"><title>#3778 · merged</title></circle>
+    <circle class="merged" cx="620" cy="165" r="4"><title>#3701 · merged</title></circle>
+    <text class="muted" x="640" y="169">+7</text>
+    <text class="muted" x="816" y="169" text-anchor="end">MAR 2026</text></g>
+  <g><title>exbin/bined: 6 PRs; latest opened 2025-10-05</title>
+    <text class="name" x="24" y="195">exbin/bined</text>
+    <text class="muted" x="430" y="195" text-anchor="end">63 <tspan class="star">★</tspan></text>
+    <circle class="merged" cx="466" cy="191" r="4"><title>#34 · merged</title></circle>
+    <circle class="merged" cx="480" cy="191" r="4"><title>#32 · merged</title></circle>
+    <circle class="merged" cx="494" cy="191" r="4"><title>#29 · merged</title></circle>
+    <circle class="merged" cx="508" cy="191" r="4"><title>#28 · merged</title></circle>
+    <circle class="merged" cx="522" cy="191" r="4"><title>#25 · merged</title></circle>
+    <circle class="merged" cx="536" cy="191" r="4"><title>#22 · merged</title></circle>
+    <text class="muted" x="816" y="195" text-anchor="end">OCT 2025</text></g>
+  <g><title>apache/hertzbeat: 4 PRs; latest opened 2025-10-08</title>
+    <text class="name" x="24" y="221">apache/hertzbeat</text>
+    <text class="muted" x="430" y="221" text-anchor="end">7.4K <tspan class="star">★</tspan></text>
+    <circle class="merged" cx="466" cy="217" r="4"><title>#3806 · merged</title></circle>
+    <circle class="closed" cx="480" cy="217" r="4"><title>#3803 · closed</title></circle>
+    <circle class="merged" cx="494" cy="217" r="4"><title>#3792 · merged</title></circle>
+    <circle class="merged" cx="508" cy="217" r="4"><title>#3779 · merged</title></circle>
+    <text class="muted" x="816" y="221" text-anchor="end">OCT 2025</text></g>
+  <g><title>apache/fory: 4 PRs; latest opened 2026-02-03</title>
+    <text class="name" x="24" y="247">apache/fory</text>
+    <text class="muted" x="430" y="247" text-anchor="end">4.6K <tspan class="star">★</tspan></text>
+    <circle class="merged" cx="466" cy="243" r="4"><title>#3254 · merged</title></circle>
+    <circle class="merged" cx="480" cy="243" r="4"><title>#2852 · merged</title></circle>
+    <circle class="merged" cx="494" cy="243" r="4"><title>#2701 · merged</title></circle>
+    <circle class="merged" cx="508" cy="243" r="4"><title>#2700 · merged</title></circle>
+    <text class="muted" x="816" y="247" text-anchor="end">FEB 2026</text></g>
+  <g><title>spring-ai-alibaba/spring-ai-extensions: 4 PRs; latest opened 2026-01-21</title>
+    <text class="name long" x="24" y="273">spring-ai-alibaba/spring-ai-extensions</text>
+    <text class="muted" x="430" y="273" text-anchor="end">160 <tspan class="star">★</tspan></text>
+    <circle class="closed" cx="466" cy="269" r="4"><title>#133 · closed</title></circle>
+    <circle class="merged" cx="480" cy="269" r="4"><title>#105 · merged</title></circle>
+    <circle class="merged" cx="494" cy="269" r="4"><title>#29 · merged</title></circle>
+    <circle class="merged" cx="508" cy="269" r="4"><title>#2 · merged</title></circle>
+    <text class="muted" x="816" y="273" text-anchor="end">JAN 2026</text></g>
+  <g><title>apache/dubbo: 2 PRs; latest opened 2025-09-21</title>
+    <text class="name" x="24" y="299">apache/dubbo</text>
+    <text class="muted" x="430" y="299" text-anchor="end">41.6K <tspan class="star">★</tspan></text>
+    <circle class="closed" cx="466" cy="295" r="4"><title>#15699 · closed</title></circle>
+    <circle class="closed" cx="480" cy="295" r="4"><title>#15682 · closed</title></circle>
+    <text class="muted" x="816" y="299" text-anchor="end">SEP 2025</text></g>
+  <circle class="merged" cx="28" cy="329" r="4"/><text class="muted" x="40" y="333">Merged</text>
+  <circle class="open" cx="130" cy="329" r="4"/><text class="muted" x="142" y="333">Open</text>
+  <circle class="closed" cx="218" cy="329" r="4"/><text class="muted" x="230" y="333">Closed</text>
+  <circle class="draft" cx="320" cy="329" r="4"/><text class="muted" x="332" y="333">Draft</text>
+  <text class="muted" x="24" y="355">11 more repositories · 13 PRs · Stars and PR data from GitHub public information</text>
+</svg>

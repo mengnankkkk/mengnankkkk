@@ -98,7 +98,7 @@
     <text class="muted" x="816" y="195" text-anchor="end">OCT 2025</text></g>
   <g><title>apache/hertzbeat: 4 PRs; latest opened 2025-10-08</title>
     <text class="name" x="24" y="221">apache/hertzbeat</text>
-    <text class="muted" x="430" y="221" text-anchor="end">7.4K <tspan class="star">★</tspan></text>
+    <text class="muted" x="430" y="221" text-anchor="end">7.5K <tspan class="star">★</tspan></text>
     <circle class="merged" cx="466" cy="217" r="4"><title>#3806 · merged</title></circle>
     <circle class="closed" cx="480" cy="217" r="4"><title>#3803 · closed</title></circle>
     <circle class="merged" cx="494" cy="217" r="4"><title>#3792 · merged</title></circle>

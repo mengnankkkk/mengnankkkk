@@ -38,7 +38,7 @@
   <g><title>MaloneTalk/DataAgent: 35 PRs; latest opened 2026-10-25</title>
     <text class="name" x="24" y="117">MaloneTalk/DataAgent</text>
     <text class="muted" x="430" y="117" text-anchor="end">75 <tspan class="star">★</tspan></text>
-    <circle class="open" cx="466" cy="113" r="4"><title>#177 · open</title></circle>
+    <circle class="merged" cx="466" cy="113" r="4"><title>#177 · merged</title></circle>
     <circle class="merged" cx="480" cy="113" r="4"><title>#176 · merged</title></circle>
     <circle class="merged" cx="494" cy="113" r="4"><title>#175 · merged</title></circle>
     <circle class="merged" cx="508" cy="113" r="4"><title>#174 · merged</title></circle>
@@ -114,7 +114,7 @@
     <text class="muted" x="816" y="247" text-anchor="end">FEB 2026</text></g>
   <g><title>spring-ai-alibaba/spring-ai-extensions: 4 PRs; latest opened 2026-01-21</title>
     <text class="name long" x="24" y="273">spring-ai-alibaba/spring-ai-extensions</text>
-    <text class="muted" x="430" y="273" text-anchor="end">161 <tspan class="star">★</tspan></text>
+    <text class="muted" x="430" y="273" text-anchor="end">162 <tspan class="star">★</tspan></text>
     <circle class="closed" cx="466" cy="269" r="4"><title>#133 · closed</title></circle>
     <circle class="merged" cx="480" cy="269" r="4"><title>#105 · merged</title></circle>
     <circle class="merged" cx="494" cy="269" r="4"><title>#29 · merged</title></circle>

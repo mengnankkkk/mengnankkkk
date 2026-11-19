@@ -38,7 +38,7 @@
   <g><title>MaloneTalk/DataAgent: 42 PRs; latest opened 2026-11-16</title>
     <text class="name" x="24" y="117">MaloneTalk/DataAgent</text>
     <text class="muted" x="430" y="117" text-anchor="end">79 <tspan class="star">★</tspan></text>
-    <circle class="open" cx="466" cy="113" r="4"><title>#191 · open</title></circle>
+    <circle class="merged" cx="466" cy="113" r="4"><title>#191 · merged</title></circle>
     <circle class="merged" cx="480" cy="113" r="4"><title>#190 · merged</title></circle>
     <circle class="merged" cx="494" cy="113" r="4"><title>#188 · merged</title></circle>
     <circle class="merged" cx="508" cy="113" r="4"><title>#186 · merged</title></circle>
